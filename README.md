@@ -1,6 +1,6 @@
 # CS50’s Introduction to Programming with Python
 [![Certificate](./Final-Project/CS50P-Certificate.png)](https://certificates.cs50.io/b9dd0633-fdd7-4512-b5be-e5cd8119c020.pdf?size=letter)
-### These are my solutions for CS50's Introduction to Programming with Python 2022.
+### These are my solutions for CS50's Introduction to Programming with Python.
 ### Final Project: [Budget Tracker](https://www.youtube.com/watch?v=GWEbIUT17Ns&t=3s)
 <br/>
 
