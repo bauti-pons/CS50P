@@ -13,7 +13,7 @@
 
 <br/>
 
-## Table of Contents
+## 📃 Table of Contents
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](/Week%200/indoor/)
 - [Playback Speed](/Week%200/playback/)
